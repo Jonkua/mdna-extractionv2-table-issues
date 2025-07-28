@@ -1,0 +1,37 @@
+2025-07-27 21:25:44 - __main__ - ERROR - Unexpected error: ZipProcessor.process_directory() got an unexpected keyword argument 'cik_filter'
+2025-07-27 21:37:01 - src.core.extractor - ERROR - Error creating filing object: Filing.__init__() got an unexpected keyword argument 'file_size'
+2025-07-27 21:37:01 - src.core.extractor - ERROR - Could not create filing object
+2025-07-27 21:37:05 - src.core.extractor - ERROR - Error creating filing object: Filing.__init__() got an unexpected keyword argument 'file_size'
+2025-07-27 21:37:05 - src.core.extractor - ERROR - Could not create filing object
+2025-07-27 21:37:09 - src.core.extractor - ERROR - Error creating filing object: Filing.__init__() got an unexpected keyword argument 'file_size'
+2025-07-27 21:37:09 - src.core.extractor - ERROR - Could not create filing object
+2025-07-27 21:37:12 - src.core.extractor - ERROR - Error creating filing object: Filing.__init__() got an unexpected keyword argument 'file_size'
+2025-07-27 21:37:12 - src.core.extractor - ERROR - Could not create filing object
+2025-07-27 21:37:16 - src.core.extractor - ERROR - Error creating filing object: Filing.__init__() got an unexpected keyword argument 'file_size'
+2025-07-27 21:37:16 - src.core.extractor - ERROR - Could not create filing object
+2025-07-27 21:37:24 - src.core.extractor - ERROR - Error creating filing object: Filing.__init__() got an unexpected keyword argument 'file_size'
+2025-07-27 21:37:24 - src.core.extractor - ERROR - Could not create filing object
+2025-07-27 21:37:24 - src.core.extractor - ERROR - Error creating filing object: Filing.__init__() got an unexpected keyword argument 'file_size'
+2025-07-27 21:37:24 - src.core.extractor - ERROR - Could not create filing object
+2025-07-27 21:37:26 - src.core.extractor - ERROR - Error creating filing object: Filing.__init__() got an unexpected keyword argument 'file_size'
+2025-07-27 21:37:26 - src.core.extractor - ERROR - Could not create filing object
+2025-07-27 21:37:28 - src.core.extractor - ERROR - Error creating filing object: Filing.__init__() got an unexpected keyword argument 'file_size'
+2025-07-27 21:37:28 - src.core.extractor - ERROR - Could not create filing object
+2025-07-27 21:37:31 - src.core.extractor - ERROR - Error creating filing object: Filing.__init__() got an unexpected keyword argument 'file_size'
+2025-07-27 21:37:31 - src.core.extractor - ERROR - Could not create filing object
+2025-07-27 21:37:33 - src.core.extractor - ERROR - Error creating filing object: Filing.__init__() got an unexpected keyword argument 'file_size'
+2025-07-27 21:37:33 - src.core.extractor - ERROR - Could not create filing object
+2025-07-27 21:58:58 - ERROR_LOGGER - ERROR - [D:\pycharm\mdna-extractionv2\output\raw_filings\20180126_10-K-A_edgar_data_4127_0000004127-18-000004.txt] MD&A section not found
+2025-07-27 21:58:58 - ERROR - [D:\pycharm\mdna-extractionv2\output\raw_filings\20180126_10-K-A_edgar_data_4127_0000004127-18-000004.txt] MD&A section not found
+2025-07-27 22:00:37 - ERROR_LOGGER - ERROR - [D:\pycharm\mdna-extractionv2\output\raw_filings\20180131_10-K_edgar_data_1166691_0001166691-18-000004.txt] MD&A section not found
+2025-07-27 22:00:37 - ERROR - [D:\pycharm\mdna-extractionv2\output\raw_filings\20180131_10-K_edgar_data_1166691_0001166691-18-000004.txt] MD&A section not found
+2025-07-27 22:00:45 - ERROR_LOGGER - ERROR - [D:\pycharm\mdna-extractionv2\output\raw_filings\20180131_10-K_edgar_data_902739_0001166691-18-000004.txt] MD&A section not found
+2025-07-27 22:00:45 - ERROR - [D:\pycharm\mdna-extractionv2\output\raw_filings\20180131_10-K_edgar_data_902739_0001166691-18-000004.txt] MD&A section not found
+2025-07-27 22:19:44 - ERROR_LOGGER - ERROR - [D:\pycharm\mdna-extractionv2\output\raw_filings\20180214_10-K-A_edgar_data_1324424_0001324424-18-000008.txt] MD&A section not found
+2025-07-27 22:19:44 - ERROR - [D:\pycharm\mdna-extractionv2\output\raw_filings\20180214_10-K-A_edgar_data_1324424_0001324424-18-000008.txt] MD&A section not found
+2025-07-27 22:23:56 - ERROR_LOGGER - ERROR - [D:\pycharm\mdna-extractionv2\output\raw_filings\20180215_10-K_edgar_data_60086_0001193125-18-046681.txt] MD&A section not found
+2025-07-27 22:23:56 - ERROR - [D:\pycharm\mdna-extractionv2\output\raw_filings\20180215_10-K_edgar_data_60086_0001193125-18-046681.txt] MD&A section not found
+2025-07-27 22:24:56 - ERROR_LOGGER - ERROR - [D:\pycharm\mdna-extractionv2\output\raw_filings\20180216_10-K-A_edgar_data_936468_0000936468-18-000013.txt] MD&A section not found
+2025-07-27 22:24:56 - ERROR - [D:\pycharm\mdna-extractionv2\output\raw_filings\20180216_10-K-A_edgar_data_936468_0000936468-18-000013.txt] MD&A section not found
+2025-07-27 22:33:38 - ERROR_LOGGER - ERROR - [D:\pycharm\mdna-extractionv2\output\raw_filings\20180220_10-K_edgar_data_831259_0000831259-18-000008.txt] MD&A section not found
+2025-07-27 22:33:38 - ERROR - [D:\pycharm\mdna-extractionv2\output\raw_filings\20180220_10-K_edgar_data_831259_0000831259-18-000008.txt] MD&A section not found
